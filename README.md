@@ -38,7 +38,7 @@ The results of this analysis bridge the gap between raw mortality statistics and
 
 ### How to use this repository
 
-**Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/docs`.
+**Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/Social Causes/Mental Health/Suicide`.
 
 ---
 
