@@ -1,3 +1,7 @@
+A professional `README.md` is the "front door" to your project. It should tell a recruiter exactly what you did, why it matters, and what tools you used.
+
+Given your use of **SQL**, **Tableau**, **NotebookLM**, and **Newspaper findings**, here is a comprehensive template you can copy and paste into your GitHub or portfolio.
+
 ---
 
 # Global Suicide Rates & Socioeconomic Trends Analysis
@@ -36,7 +40,9 @@ The results of this analysis bridge the gap between raw mortality statistics and
 
 ### How to use this repository
 
-**Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/docs`.
+1. **SQL Scripts:** Located in the `/scripts` folder.
+2. **Tableau Dashboard:** Access the interactive viz [Link to your Tableau Public profile].
+3. **Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/docs`.
 
 ---
 
