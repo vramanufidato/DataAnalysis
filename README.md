@@ -1,3 +1,5 @@
+
+
 ---
 
 # Global Suicide Rates & Socioeconomic Trends Analysis
@@ -36,9 +38,7 @@ The results of this analysis bridge the gap between raw mortality statistics and
 
 ### How to use this repository
 
-1. **SQL Scripts:** Located in the `/scripts` folder.
-2. **Tableau Dashboard:** Access the interactive viz [Link to your Tableau Public profile].
-3. **Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/docs`.
+**Synthesis Report:** The NotebookLM summary of qualitative findings can be found in `/docs`.
 
 ---
 
