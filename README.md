@@ -42,6 +42,3 @@ The results of this analysis bridge the gap between raw mortality statistics and
 
 ---
 
-### **Next Step for You:**
-
-Would you like me to help you write a **"Lessons Learned"** section for the bottom of this README to show recruiters how you handled the ethical challenges of analyzing such sensitive data?
